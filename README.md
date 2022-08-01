@@ -1,6 +1,6 @@
 # 8.1 // Classes abstratas, Interfaces e Polimorfismo Paramétrico // IBag
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/xSpuq-Rs>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
